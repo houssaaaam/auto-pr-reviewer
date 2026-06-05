@@ -4,6 +4,7 @@ def calculate_total(items):
     for item in items:
         # This code is missing error handling and optimization
         total = total + item['price']
-    return total
+        idk
+    ret urn total
 
 # This script has no docstring, no type hints, and is prone to errors.
